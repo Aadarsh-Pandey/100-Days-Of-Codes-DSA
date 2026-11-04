@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class InversionCount {
@@ -80,4 +79,3 @@ public class InversionCount {
         sc.close();
     }
 }
-
